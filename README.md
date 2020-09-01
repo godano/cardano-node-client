@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">
-    <br/>
     Cardano-Node Client
     <br/>
     <a href="https://github.com/godano/cardano-lib/blob/master/LICENSE" ><img alt="license" src="https://img.shields.io/badge/license-MIT%20License%202.0-E91E63.svg?style=flat-square" /></a>
